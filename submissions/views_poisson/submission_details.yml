@@ -1,0 +1,12 @@
+team: ViEWS
+short_title: Point-to-Poisson model
+even_shorter_identifier: poisson
+description: A short description of the views poisson approach
+authors:
+    - name: Håvard Hegre
+      affil: PRIO
+    - name: Paola Vesco
+      affil: PRIO
+contact: hhegre@prio.org
+
+
